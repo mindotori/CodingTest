@@ -8,7 +8,7 @@ public class CountPandY {
             int yCount = 0;
             //일단 다 대문자로 변경
             s = s.toUpperCase();
-            // p와 y를 갯수로 비교
+            // p와 y를 개수로 비교
             for(int i=0;i<s.length();i++){
                 //char ch = s.charAt(i);
                 // char 비교할땐 ''(작은따옴표)
