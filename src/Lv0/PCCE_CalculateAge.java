@@ -1,6 +1,6 @@
 package Lv0;
 import java.util.*;
-public class CalculateAge {
+public class PCCE_CalculateAge {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int year = sc.nextInt();    // 태어난 연도
